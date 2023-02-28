@@ -5,13 +5,13 @@ repo_name: jackjohnhardy.github.io
 edit_uri: "edit/main/docs"
 nav:
   - 'Homepage': index.md
-  - 'About Me': empty.md
+  - 'About Me': about_me.md
   - 'Projects':
     - 'Overview': projects_overview.md
     - 'This Website': website.md
     - 'PiazzaPanic': piazza_panic.md
     - 'Bird Game': bird_game.md
-    - 'TerminusRP': empty.md
+    - 'TerminusRP': terminusrp.md
   - 'CV': CV.md
 plugins:
   - glightbox
