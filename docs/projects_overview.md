@@ -17,8 +17,8 @@ hide:
 
 === "PiazzaPanic"
     ![catepila_development](img/catepila_development.png){align=left width=50}
-    In this ongoing project our team of 6 is creating a kitchen simulator game for presentation at open days for the University of York.  
-    This game will be designed to the specification of our client from the university, and will be implemented from in Java using the LibGDX library.  
+    In this ongoing project, our team of 6 is creating a kitchen simulator game for presentation at open days for the University of York.  
+    This game will be designed to the specification of our client from the university, and will be implemented in Java using the LibGDX library.  
     [View project page ↗](piazza_panic.md)  
 
     <figure markdown>
@@ -42,13 +42,13 @@ hide:
     This is an ongoing hobby project to create a DayZ Roleplay server and community.  
     The project includes several parts including:  
 
-    * Creating a Website for the project to include the guides, lore and server information.
+    * Creating a website for the project to include the guides, lore and server information.
     * Creating a DayZ server including the mod and server configuration, and custom world mapping.
     * Creating a DayZ mod with custom clothing, custom buildings, and custom items, and additional gameplay mechanics.
     * A Discord server for the community to recieve announcements and disucuss the server.
-    * A Custom Discord bot for integrating gameplay mechanics with the discord server such as economy, character, and roleplay mechanics. The bot is programmed in Java using the Java-Discord API.
-    * Applying for monetization permission to sell in-game cosmetics to support server costs.
-    * Finding and using a rented dedicated server to host the DayZ server and Discord Bot.
+    * A custom Discord bot for integrating gameplay mechanics with the discord server such as economy, character, and roleplay mechanics. The bot is programmed in Java using the Java-Discord API.
+    * Applying for monetisation permission from Bohemia Interactive to sell in-game cosmetics to support server costs.
+    * Finding and using a rented dedicated server to host the DayZ server and Discord bot.
     
     [View project website ↗](https://www.terminusrp.com)
     <figure markdown>

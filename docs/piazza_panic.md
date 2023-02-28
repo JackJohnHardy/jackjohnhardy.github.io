@@ -4,8 +4,8 @@ hide:
 ---
 
 ## Overview
-In this ongoing project our team of 6 is creating a kitchen simulator game for presentation at open days for the University of York.  
-This game will be designed to the specification of our client from the university, and will be implemented from in Java using the LibGDX library.  
+In this ongoing project, our team of 6 is creating a kitchen simulator game for presentation at open days for the University of York.  
+This game will be designed to the specification of our client from the university, and will be implemented in Java using the LibGDX library.  
 
 Started: 9/11/22  
 Completed: Ongoing

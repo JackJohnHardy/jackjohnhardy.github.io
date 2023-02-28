@@ -26,23 +26,23 @@ Project uses:
 ---
 
 ## Planning
-As this is only a short and simple project, I decided not to plan too much so that I could get straight to writing about my projects.
-Since I had already make a simple website a couple weeks earlier for another project using Material for Mkdocs I decided to reuse what I had already built in that project.  
+As this is relatively simple project, I kept the planning process short so that I could get straight to writing about my projects.
+I had already made a simple website a couple weeks earlier for another project using Material for Mkdocs, I decided to reuse what I had already built in that project.  
 
 My plan for this project:  
 
 - Copy and edit the TerminusRP website config for about, projects, and CV tabs
 - Create a Guthub repository for the project
-- Deploying using GitHub Pages
-- Writing out all the pages in markdown
-- Switching to my own custom domain for the site
+- Deploy using GitHub Pages
+- Write out all the pages in markdown
+- Switch to my own custom domain for the site
 
 ---
 
 ## Initial Version
-To make the first version of the website I created a local copy of my [TerminusRP website](empty.md).  
-Using this as a base I removed the old markdown files, and made a simple homepage in index.md as a placeholder. 
-Following this I reworked the site navigation in the mkdocs.yml file.  
+To make the first version of the website, I created a local copy of my [TerminusRP website](terminusrp.md).  
+Using this as a base, I removed the old markdown files, and made a simple homepage in index.md as a placeholder. 
+Following this, I reworked the site navigation in the mkdocs.yml file.  
 ```
 nav:
   - 'Homepage': index.md
@@ -71,13 +71,13 @@ After that all I had left to do was create a simple logo in paint.net for the he
 ---
 
 To check this first version worked I used `$ mkdocs serve` to locally host a version of the site to check everything looked and worked as I expected, 
-and after fixing some small syntax errors in the yml file it was ready to be published to a repository
+and after fixing some small syntax errors in the yml file it was ready to be published to a repository.
 ![mkdocs_serve](img/mkdocs_serve.png)
 
 ---
 
 ## Creating a Repository
-For this project I created a new GitHub account using my work email, under this new work account I created a new repository 
+For this project I created a new GitHub account using my work email. Under this new work account I created a new repository 
 jackjohnhardy.github.io to follow the GitHub Pages naming convention.  
 I then configired GitHub Desktop so I could make my initial commit to the main branch.
 ![initial_commit](img/initial_commit.png)
@@ -98,7 +98,7 @@ Hey! That's what I'm doing now. Take a look around the website or GitHub reposit
 ---
 
 ## Switching to a custom domain
-To use my own domain for my GitHub Pages site I purchased the domain jackjohnhardy.com from Namecheap.  
+To use my own domain for my GitHub Pages site, I purchased the domain jackjohnhardy.com from Namecheap.  
 I then used Namecheaps advanced DNS to create a CNAME and a URL redirect records.
 ![DNS_configuration](img/DNS_configuration.png)
 
